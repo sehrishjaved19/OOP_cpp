@@ -44,6 +44,9 @@ class class_identifier
  * Definition: An object created from a class.
 ### Instantiation:
  * Definition: The process of creating an object (an instance) of a class.
+### * Notes:
+   * we can create multiple classes within one program.
+   * we can create multiple onject on the basis of one class, and each object created will have its own copy of values.
 ### Access Specifiers:
  ### Definition:
 _**"Commands/Keywords used to specify the access level of class members."**_
