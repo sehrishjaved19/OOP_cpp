@@ -10,7 +10,7 @@ return_type class_name::function_name(parameters)
 ```
 
  * Notes:
-   * The :: is the scope resolution operator, which is used to define member functions outside the class.
+   * The :: is the *scope resolution operator*, which is used to define member functions outside the class.
    * return_type indicates the type of value to be returned by the function.
    * class_name is the name of the class to which the function belongs.
    * function_name is the name of the member function being defined.
