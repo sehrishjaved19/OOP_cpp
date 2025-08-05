@@ -55,6 +55,8 @@ _**"Commands/Keywords used to specify the access level of class members."**_
  ### Definition:
  *  _**"Restricts the use of class members"**_.
  *   Data members declared with private can only be accessed within the class itself.
+ **Attributes of a class**
+* Attributes of class mean, we are usually referring to its data members (also called fields or properties).
 ### Notes:
    * Private data members are typically declared as private to protect the data from being manipulated directly from outside the class.
    * They can only be accessed by the member functions declared within the same class.
@@ -75,3 +77,6 @@ _**"Commands/Keywords used to specify the access level of class members."**_
  ## Notes:
    * The object name and member function name are separated by the . (dot) operator.
    * Any required parameters are passed to the member function within the parentheses.
+
+## Attribute:
+   * A variable that stores information (data) inside a class.

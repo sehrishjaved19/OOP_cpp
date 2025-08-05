@@ -5,6 +5,7 @@ class Hello
 {
     private:
     int n;
+    // In this program, the variable int n is declared as a private data member of the Hello class, but it is not used anywhere in the code. It is not assigned a value, nor is it accessed or manipulated. You can safely remove it without affecting the program’s functionality.
     public:
     Hello()
     {

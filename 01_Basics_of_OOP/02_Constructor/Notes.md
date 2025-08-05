@@ -42,3 +42,10 @@ public:
 - Always initialize all data members.
 - Use initializer lists for efficiency.
 - Avoid complex logic in constructors.
+
+## Constructor Overloading:
+**The Process of Declaring multiple constructors with same name but different parameters is known as Constructor Overloading.**
+# The constructors with the same name must differ in one of the following ways:
+* Number of parameters
+* Types of parambers
+* Sequence of parameters
