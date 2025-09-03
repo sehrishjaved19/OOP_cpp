@@ -133,6 +133,7 @@ Together, they make programming more **organized, reusable, secure, and closer t
 ### Access Specifiers:
  ### Definition:
 _**"Commands/Keywords used to specify the access level of class members."**_
+* If you do not declare an access specification, the default for members of class is "private".
 There are three types of access specifiers: **private, public & protected.**
 ##  Private Access Specifier:
  ### Definition:
