@@ -26,7 +26,7 @@ _**In public inheritance, the access status of parent class members in the deriv
 ### Notes:  
 * Public members of parent class → **public** in derived class.  
 * Protected members of parent class → **protected** in derived class.  
-* Private members of parent class → **private** in derived class.  
+* Private members of parent class → **private** in derived class. Means Derived class cannot access the private members of parent class. 
 * **Objects of child class cannot access private and protected members of parent class, but can access public members.**  
 
 ---
