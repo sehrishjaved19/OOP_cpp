@@ -49,3 +49,4 @@ class sub_class : specifier parent_class
 {
     // body of the class
 };
+```

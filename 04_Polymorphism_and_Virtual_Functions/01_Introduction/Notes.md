@@ -1,6 +1,6 @@
 ## Polymorphism  
 * The word **Polymorphism** is a combination of two words **Poly** and **morphism**.
-* **poly** means **many** &
+* **Poly** means **many** 
 * **morphism** means **forms**
 
 ### **Definition:**  
