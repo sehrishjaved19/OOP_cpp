@@ -18,6 +18,9 @@ _**A type of function that appears to exist in some part of a program but does n
 ## 🏷️ Virtual Keyword
 * A **virtual function** is defined in the **parent class** and can be **overridden** in child classes.  
 * Declared using the keyword **`virtual`**.
+* The virtual keyword tells the compiler:
+**Don’t bind this function call at compile-time. Instead, check at runtime which class object is being pointed to and call that version.**
+That’s how it enables polymorphism (one interface, multiple behaviors).
 
 ---
 
