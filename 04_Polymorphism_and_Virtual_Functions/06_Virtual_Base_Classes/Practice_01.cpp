@@ -5,7 +5,7 @@ class Parent{
     int n;
 
 };
-class Child1 : virtual public Parent// thsi use of virtual keyword, allow these classes inherit only one copy of the data member n to remove ambiguity.
+class Child1 : virtual public Parent// this use of virtual keyword, allow these classes inherit only one copy of the data member n to remove ambiguity.
 {};
 class Child2 : virtual public Parent
 {};
