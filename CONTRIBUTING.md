@@ -79,15 +79,32 @@ git push origin feature/your-feature-name
 
 ```
 OOP_cpp/
-├── 00_Basics/
-├── 01_Classes_Objects/
-├── 02_Constructors/
-├── 03_Operator_Overloading/
-├── 04_Inheritance/
-├── 05_Polymorphism/
-├── 06_Templates/
-├── 07_File_Handling/
-├── 08_Practice_Problems/
+├───01_introduction
+│   ├───01_data_memeber_and_data_function
+│   ├───02_defining_member_function_outside_class
+│   └───03_user_defined_data_type
+├───02_constructor
+│   ├───01_constructor_introduction
+│   ├───02_constructor_overloading
+│   ├───03_default_copy_constructor
+│   └───04_passing_parameters_to_constructor
+├───03_destructor
+├───04_operator_overloading
+├───05_inheritence
+│   ├───01_accessing_members_of_parent_class
+│   └───02_specifying_a_dervied_class
+├───06_function_overriding
+├───07_Types_of_inheritence
+│   ├───01_multilevel_inheritence
+│   └───02_multiple_inheritence
+│       └───01_contructors_in_multiple_inheritence
+├───08_polymorphism
+├───09_pointer_to_objects
+├───10_pointers_and_inheritance
+├───11_virtual_functions
+├───12_early_and_late_binding
+├───13_pure_virtual_function
+└───14_virtual_base_classes
 ```
 
 * Place new files in the appropriate folder.
