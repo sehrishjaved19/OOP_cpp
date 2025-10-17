@@ -147,8 +147,11 @@ This repository is licensed under the **MIT License** — see the [LICENSE](./LI
 ## 💬 Connect
 
 **Author:** Sehrish Javed
+
 **GitHub:** [@sehrishjaved19](https://github.com/sehrishjaved19)
+
 **LinkedIn:** [Sehrish Javed](https://www.linkedin.com/in/sehrish-javed-119abc)
+
 **Twitter (X):** [@Sehrishjaved119](https://x.com/Sehrishjaved119)
 
 ---
